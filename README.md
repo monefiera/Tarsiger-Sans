@@ -6,6 +6,9 @@ MejiroやKoruriの系列に連なるフォントのため好きな青い鳥「�
 
 英数字はOutfit、2バイト文字はM PLUS 1になります。
 
+## Magisk Module
+[こちら](https://github.com/monefiera/Tarsiger-Sans-Prime)へ。KernelSUでも使えます。
+
 ## License
 SIL Open Font License 1.1
 
