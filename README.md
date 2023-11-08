@@ -1,4 +1,5 @@
-# Tarsiger-Sans
+# Tarsiger-Sans <img src="https://github.com/monefiera/Tarsiger-Sans/blob/main/Luribidaki.png" width="35px">
+
 Product SansっぽいOutfit FontsとM PLUS 1 Fontsの合成フォントです。
 
 MejiroやKoruriの系列に連なるフォントのため好きな青い鳥「ルリビタキ」から英名を取ってTarsigerとしました。
