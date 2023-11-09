@@ -14,6 +14,6 @@ SIL Open Font License 1.1
 
 ## Special Thanks
 - [googlefonts/Inter](https://github.com/specimen/Inter): Inter Fonts
-- [adobe-fonts/M PLUS 1](https://github.com/coz-m/MPLUS_FONTS): M PLUS 1 Fonts
+- [github-fonts/M PLUS 1](https://github.com/coz-m/MPLUS_FONTS): M PLUS 1 Fonts
 - [FontForge](https://fontforge.org/): 合成フォントの作成、及びフォントの情報編集に使用
 - [RoboHanSans](https://github.com/reindex-ot/RoboHanSans/): テンプレート的にREADMEを参考に致しました
