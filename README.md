@@ -1,4 +1,4 @@
-# Tarsiger-Sans <img src="https://github.com/monefiera/Tarsiger-Sans/blob/main/Luribidaki.png" width="35px">
+# Open-Tarsiger-Sans <img src="https://github.com/monefiera/Tarsiger-Sans/blob/main/Luribidaki.png" width="35px">
 
 ちょっとProduct SansっぽいInter FontsとM PLUS 1 Fontsの合成フォントです。
 
