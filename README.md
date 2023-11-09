@@ -2,7 +2,7 @@
 
 ちょっとProduct SansっぽいInter FontsとM PLUS 1 Fontsの合成フォントです。
 
-MejiroやKoruriの系列に連なるフォントのため、好きな青い鳥「ルリビタキ」から英名を取ってTarsigerとしました。
+MejiroやKoruriの系列に連なるフォントのため、好きな青い鳥「[ルリビタキ](https://goopass.jp/animal/bird/book/ruribitaki)」から英名を取ってTarsigerとしました。
 
 英数字はInter、2バイト文字はM PLUS 1になります。
 
